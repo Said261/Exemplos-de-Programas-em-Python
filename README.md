@@ -1,2 +1,2 @@
 # Exemplos-de-Programas-em-Python
-No repositório de Exemplos de Programas em Python, vamos encontrar alguns códigos que são respostas a desafios de programação, como o cálculo do fatorial de um número, o retornador de palavras, o detetor de interseções, programas de automação e testes automatizados, entre outros.
+No repositório podem encontrar alguns códigos criados utilizando Colaboratory Research da Google, os quais são respostas de alguns desafios de programação e projetos de ciência de dados. Mais especificamente, podem encontrar códigos tais como: o cálculo do fatorial de um número, o retornador de palavras, o detector de interseções, projetos de IA, programas de automação e testes automatizados, entre outros.
